@@ -1,0 +1,29 @@
+BaseUrl: "https://vation-ca.github.io/satellite-docs/"
+ContentDir: "content"
+LayoutDir: "layouts"
+PublishDir: "public"
+BuildDrafts: true
+languageCode: "en-us"
+Title: "Satellite SBD services documentation"
+PluralizeListTitles: False
+googleAnalytics: ""
+menu:
+ 
+Params:
+  Author: ""
+  Banner: ""
+  DateForm: "2006-01-02"
+  disqusShortname: ""
+  Search: ""
+  ShowRelatedPost: True
+  Slogan: ""
+taxonomies:
+  tag: "tags"
+permalinks:
+  post: /post/:year/:slug/
+MetadataFormat: "yaml"
+theme: "bootstrapfour"
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
