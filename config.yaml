@@ -4,7 +4,7 @@ LayoutDir: "layouts"
 PublishDir: "public"
 BuildDrafts: true
 languageCode: "en-us"
-Title: "Satellite SBD services documentation"
+Title: "Satellite SBD services"
 PluralizeListTitles: False
 googleAnalytics: ""
 menu:
