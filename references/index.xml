@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>References on Satellite SBD services</title>
+    <link>https://vation-ca.github.io/satellite-docs/references/</link>
+    <description>Recent content in References on Satellite SBD services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 15:44:52 -0500</lastBuildDate>
+    
+	<atom:link href="https://vation-ca.github.io/satellite-docs/references/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vation-ca.github.io/satellite-docs/references/iridium/</link>
+      <pubDate>Sat, 29 Sep 2018 15:44:52 -0500</pubDate>
+      
+      <guid>https://vation-ca.github.io/satellite-docs/references/iridium/</guid>
+      <description>Iridium references Company website The Iridium company website has a blog where many application stories can be found.
+You can find the Short Burst Data service brochure here
+Videos There are some videos that describe the Iridium NEXT project. YouTube
+The 4-part series on the massive project that saved Iridium so that we can use it in this project:
+ Ep. 1: One World One Phone #IridiumNEXT Ep. 2: The Man who Saved Iridium #IridiumNEXT Ep.</description>
+    </item>
+    
+  </channel>
+</rss>
