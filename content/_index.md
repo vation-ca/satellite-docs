@@ -77,6 +77,6 @@ The satellite terminal, RockSTAR,  has buttons optimized to trigger special aler
 
 An option exists to send the application reports over the cellular/wifi networks if the are in range and to only use the SBD messages when necessary.
 
-#### custom iPhone App
+#### Custom iPhone App
 
 To optimize the user interface for the Applications it would be done from a simple App to make custom user presentation and for data input. Ideally this custom app can communicate to the RockSTAR app, R7 Connect.
