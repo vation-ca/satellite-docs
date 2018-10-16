@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Example site update to gh-pages script
 DIR=$(dirname "$0")
 
 cd $DIR/..
