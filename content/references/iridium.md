@@ -2,9 +2,18 @@
 language = "en"
 tags = [
 ]
+title = "Iridium"
+description= "Iridium Satellite references"
 date = "2018-09-29T15:44:52-05:00"
+lastmod = "2019-02-17T13:10:52-05:00"
+keywords = [
+    "satellite",
+    "SBD",
+    "Iridium"
+]
 type = "single"
 +++
+<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
 ## Iridium references
 
@@ -32,6 +41,6 @@ The 4-part series on the massive project that saved Iridium so that we can use i
 
 ## Relevant products
 
-Iridium Edge is a packaged data product that uses SBD and the [UM_Iridium Edge_User Manual_(JUN17)](https://www.iridium.com/download/?dlm-dp-dl=25107) 
+Iridium Edge is a packaged data product that uses SBD and the [UM_Iridium Edge_User Manual_(JUN17)](https://www.iridium.com/download/?dlm-dp-dl=25107)
 
 The [developers guide](https://fccid.io/Q639603N/User-Manual/Developers-guide-2370311) and [ISU AT Command Reference](https://www.beamcommunications.com/document/328-iridium-isu-at-command-reference-v5)

@@ -2,10 +2,22 @@
 language = "en"
 tags = [
 ]
+title = "Satellite SBD services"
+description= "Documentation of service built on Iridium Short Burst Data (SBD)"
 date = "2018-09-26T15:44:52-05:00"
+lastmod = "2019-02-17T13:10:52-05:00"
+keywords = [
+    "satellite",
+    "SBD",
+    "Iridium",
+    "JSON-LD",
+    "Vapor",
+    "RockSTAR"
+]
 type = "single"
 nobc = true
 +++
+<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
 ## The Domain
 
@@ -57,7 +69,6 @@ Some notices are time critical, in the case that a fishery has to be closed due 
 #### Report of Whales in a ship traffic area
 
 The location of Whales can be reported quickly with their approximate location.  The notices could be focussed to the ships in the vicinity in case a lower speed of travel is  required.
-
 
 ### Technologies
 

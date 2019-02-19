@@ -17,6 +17,9 @@ Params:
   Search: ""
   ShowRelatedPost: True
   Slogan: ""
+  ISO8601: "2006-01-02T15:04:05Z07:00"
+  copyright: "Vation Inc."
+  logo: "assets/images/vationlogoonwhite.png"
 taxonomies:
   tag: "tags"
 permalinks:
